@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSoln1", "WebSoln1\WebSoln1.csproj", "{DB6DB641-747A-4902-9786-013ACD2F73DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_BAL", "Task_BAL\Task_BAL.csproj", "{B2D3A817-1E52-4CBD-B217-131C1C9FF5F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_DAL", "Task_DAL\Task_DAL.csproj", "{3AEC5A4C-0F60-485A-862C-0830E2FA72C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6DB641-747A-4902-9786-013ACD2F73DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6DB641-747A-4902-9786-013ACD2F73DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6DB641-747A-4902-9786-013ACD2F73DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6DB641-747A-4902-9786-013ACD2F73DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D3A817-1E52-4CBD-B217-131C1C9FF5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D3A817-1E52-4CBD-B217-131C1C9FF5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D3A817-1E52-4CBD-B217-131C1C9FF5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D3A817-1E52-4CBD-B217-131C1C9FF5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEC5A4C-0F60-485A-862C-0830E2FA72C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEC5A4C-0F60-485A-862C-0830E2FA72C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEC5A4C-0F60-485A-862C-0830E2FA72C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEC5A4C-0F60-485A-862C-0830E2FA72C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFA27B4D-4EA4-4DE6-8561-D2927B35E4E9}
+	EndGlobalSection
+EndGlobal
